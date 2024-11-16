@@ -1,0 +1,8 @@
+[
+  { "offset": 6, "minX": 30, "color": "bg-orange-700" },
+  { "offset": 5, "minX": 28, "color": "bg-orange-700" },
+  { "offset": 4, "minX": 26, "color": "bg-orange-700" },
+  { "offset": 3, "minX": 24, "color": "bg-orange-700" },
+  { "offset": 2, "minX": 22, "color": "bg-orange-700" },
+  { "offset": 1, "minX": 20, "color": "bg-orange-700" }
+]
